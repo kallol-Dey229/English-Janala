@@ -169,7 +169,7 @@ loadLessons();
 
 
 
-// search
+// Search functionality 
 
 document.getElementById('btn-search').addEventListener('click', ()=>{
 
