@@ -4,7 +4,7 @@ const createElements = (arr) => {
 }  
 
 
-// volume
+//  volume
 
 function pronounceWord(word) {
   const utterance = new SpeechSynthesisUtterance(word);
