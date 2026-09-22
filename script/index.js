@@ -167,9 +167,7 @@ loadLessons();
 
 
 
-
-
-// Search functionality 
+// Search functionality..
 
 document.getElementById('btn-search').addEventListener('click', ()=>{
 
