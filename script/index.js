@@ -71,7 +71,7 @@ const loadWordDetail = async (id) => {
 
 }  
 
-
+//
 
 const displayWordDetails = (word) =>{
 
@@ -161,7 +161,6 @@ const displayLesson = (lessons) => {
 
 
 loadLessons();
-
 
 
 
