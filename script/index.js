@@ -13,7 +13,6 @@ function pronounceWord(word) {
 }
 
 
-//
 const manageSpinner = (status) => {
     if(status == true){
         document.getElementById('spinner').classList.remove('hidden');
